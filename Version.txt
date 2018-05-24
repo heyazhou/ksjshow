@@ -33,4 +33,8 @@ v4.3.86.17
 日期
 说明
 
+2018/5/24
+v6.0.121.17
+使用KSJApi v6.0.121.17版本库。增加了Program Color， Program Param， Erase Param， ini的自动曝光，预设值的默认值从相机获取。
+
 
